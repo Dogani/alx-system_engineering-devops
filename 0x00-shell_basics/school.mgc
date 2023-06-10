@@ -1,2 +1,1 @@
-echo '0 string SCHOOL School data file' > school.magic
-file -C -m school.magic
+Ò =SCHOOLSchool dataSchool
